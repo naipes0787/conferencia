@@ -1,4 +1,4 @@
-# conferencia
+# Conferencia
 Sitio de ejemplo para una conferencia.
 
 Software utilizado para desarrollo:
